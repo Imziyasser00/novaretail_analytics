@@ -1,0 +1,99 @@
+transaction_id,transaction_date,product,category,quantity,unit_price,discount_rate,payment_method,store,revenue
+TX-000037,2026-09-07,Water Bottle,Sports,-3,14.9,0.1,Cash,Paris,40.23
+TX-000114,2026-01-07,Jeans,Clothing,4,44.9,1.5,Bank Transfer,Paris,161.64
+TX-000186,2026-06-28,Jeans,Clothing,-3,44.9,0.0,Card,Bordeaux,134.7
+TX-000319,2026-07-28,Resistance Bands,Sports,1,,0.2,Card,Lyon,18.32
+TX-000340,2026-05-08,Resistance Bands,Sports,1,,0.05,Card,Paris,21.76
+TX-000396,2026-01-09,Water Bottle,Sports,-3,14.9,0.0,Bank Transfer,Bordeaux,14.9
+TX-000427,2026-08-14,Water Bottle,Sports,4,,0.0,Cash,Lyon,59.6
+TX-000442,2026-05-20,T-Shirt,Clothing,3,,0.0,Bank Transfer,Lyon,59.7
+TX-000450,2026-02-15,T-Shirt,Clothing,1,19.9,1.5,Card,Paris,19.9
+TX-000460,2026-09-01,Bluetooth Speaker,Electronics,1,,0.0,Card,Bordeaux,59.9
+TX-000468,2026-04-02,Coffee Mug,Home,1,,0.0,Card,Paris,9.9
+TX-000530,2026-01-20,Resistance Bands,Sports,3,22.9,1.5,Card,Bordeaux,68.7
+TX-000572,2026-07-08,Hoodie,Clothing,-3,49.9,0.0,Bank Transfer,Paris,49.9
+TX-000637,2026-03-11,USB-C Cable,Electronics,1,,0.2,Cash,Paris,10.0
+TX-000695,2026-06-10,Bluetooth Speaker,Electronics,-3,59.9,0.05,Cash,Lyon,113.81
+TX-000698,2026-07-29,Coffee Mug,Home,-3,9.9,0.0,Card,Paris,29.7
+TX-000807,2026-04-27,Desk Lamp,Home,2,34.9,1.5,Cash,Lyon,69.8
+TX-000825,2026-05-22,Coffee Mug,Home,1,,0.0,Card,Paris,9.9
+TX-000834,2026-03-08,Bluetooth Speaker,Electronics,2,59.9,1.5,Card,Paris,119.8
+TX-000908,2026-09-07,USB-C Cable,Electronics,2,,0.0,Card,Bordeaux,25.0
+TX-000995,2026-02-06,Desk Lamp,Home,-3,34.9,0.05,Card,Paris,66.31
+TX-001000,2026-01-27,Desk Lamp,Home,3,,0.1,Card,Paris,94.23
+TX-001133,2026-09-07,Yoga Mat,Sports,2,,0.0,Card,Paris,59.8
+TX-001225,2026-04-13,Jeans,Clothing,-3,44.9,0.0,Card,Bordeaux,44.9
+TX-001381,2026-03-21,Resistance Bands,Sports,-3,,0.0,Bank Transfer,Lyon,45.8
+TX-001603,2026-05-10,Yoga Mat,Sports,1,29.9,1.5,Card,Bordeaux,29.9
+TX-001669,2026-05-04,Desk Lamp,Home,1,34.9,1.5,Card,Paris,34.9
+TX-001771,2026-06-03,Hoodie,Clothing,1,,0.0,Bank Transfer,Bordeaux,49.9
+TX-001844,2026-04-04,Water Bottle,Sports,1,,0.0,Card,Lyon,14.9
+TX-002003,2026-09-22,Hoodie,Clothing,2,,0.0,Card,Paris,99.8
+TX-002027,2026-03-08,Coffee Mug,Home,2,9.9,1.5,Bank Transfer,Paris,17.82
+TX-002040,2026-07-28,Jeans,Clothing,4,44.9,1.5,Cash,Bordeaux,179.6
+TX-002085,2026-05-28,Bluetooth Speaker,Electronics,2,59.9,1.5,Cash,Paris,107.82
+TX-002146,2026-03-25,Jeans,Clothing,2,,0.0,Bank Transfer,Paris,89.8
+TX-002175,2026-02-01,USB-C Cable,Electronics,1,,0.2,Card,Paris,10.0
+TX-002195,2026-07-22,Coffee Mug,Home,-3,9.9,0.0,Card,Paris,19.8
+TX-002209,2026-05-01,USB-C Cable,Electronics,1,,0.0,Cash,Paris,12.5
+TX-002228,2026-09-01,Resistance Bands,Sports,1,,0.0,Card,Lyon,22.9
+TX-002239,2026-03-19,Jeans,Clothing,1,,0.2,Card,Lyon,35.92
+TX-002244,2026-03-17,Bluetooth Speaker,Electronics,3,,0.05,Card,Paris,170.71
+TX-002288,2026-02-18,Yoga Mat,Sports,-3,29.9,0.05,Card,Paris,28.4
+TX-002309,2026-07-28,T-Shirt,Clothing,1,19.9,1.5,Cash,Bordeaux,19.9
+TX-002349,2026-09-10,USB-C Cable,Electronics,-3,12.5,0.1,Card,Bordeaux,11.25
+TX-002354,2026-03-29,Jeans,Clothing,-3,44.9,0.0,Card,Bordeaux,89.8
+TX-002488,2026-05-20,Wireless Mouse,Electronics,1,,0.0,Card,Lyon,24.9
+TX-002516,2026-03-17,Yoga Mat,Sports,1,29.9,1.5,Card,Paris,28.4
+TX-002521,2026-02-11,Jeans,Clothing,-3,44.9,0.0,Card,Paris,44.9
+TX-002550,2026-08-05,Bluetooth Speaker,Electronics,1,,0.0,Card,Lyon,59.9
+TX-002612,2026-02-12,Resistance Bands,Sports,2,,0.0,Card,Paris,45.8
+TX-002716,2026-04-30,Jeans,Clothing,1,,0.0,Card,Lyon,44.9
+TX-002765,2026-05-08,USB-C Cable,Electronics,2,,0.0,Card,Paris,25.0
+TX-002770,2026-09-24,Resistance Bands,Sports,-3,22.9,0.0,Card,Lyon,45.8
+TX-002825,2026-08-11,Coffee Mug,Home,-3,9.9,0.0,Card,Paris,49.5
+TX-002837,2026-04-16,Resistance Bands,Sports,-3,22.9,0.1,Card,Bordeaux,20.61
+TX-002874,2026-04-04,USB-C Cable,Electronics,-3,12.5,0.05,Card,Bordeaux,11.88
+TX-003153,2026-04-30,USB-C Cable,Electronics,2,,0.0,Card,Paris,25.0
+TX-003204,2026-06-29,Bluetooth Speaker,Electronics,2,,0.0,Card,Lyon,119.8
+TX-003243,2026-05-30,Water Bottle,Sports,5,,0.2,Card,Lyon,59.6
+TX-003269,2026-02-09,Bluetooth Speaker,Electronics,-3,59.9,0.0,Card,Paris,119.8
+TX-003311,2026-01-15,Desk Lamp,Home,-3,34.9,1.5,Card,Paris,104.7
+TX-003338,2026-05-27,Wireless Mouse,Electronics,-3,24.9,0.1,Card,Paris,22.41
+TX-003389,2026-09-04,T-Shirt,Clothing,1,,0.0,Cash,Paris,19.9
+TX-003458,2026-06-01,Wireless Mouse,Electronics,3,,0.05,Card,Lyon,70.96
+TX-003482,2026-08-02,USB-C Cable,Electronics,1,12.5,1.5,Card,Bordeaux,12.5
+TX-003498,2026-02-23,Jeans,Clothing,3,,0.0,Card,Paris,134.7
+TX-003513,2026-08-19,Bluetooth Speaker,Electronics,-3,59.9,0.05,Bank Transfer,Paris,56.9
+TX-003563,2026-09-24,Jeans,Clothing,3,,0.05,Card,Paris,127.96
+TX-003585,2026-02-23,Yoga Mat,Sports,3,29.9,1.5,Card,Paris,89.7
+TX-003609,2026-07-18,Coffee Mug,Home,1,9.9,1.5,Bank Transfer,Lyon,9.9
+TX-003652,2026-05-31,Wireless Mouse,Electronics,4,,0.0,Cash,Lyon,99.6
+TX-003779,2026-02-10,Resistance Bands,Sports,3,,0.0,Card,Paris,68.7
+TX-003785,2026-03-14,Resistance Bands,Sports,2,,0.05,Card,Lyon,43.51
+TX-003825,2026-07-14,Coffee Mug,Home,-3,9.9,0.0,Card,Bordeaux,29.7
+TX-003833,2026-09-18,Yoga Mat,Sports,1,,0.0,Cash,Paris,29.9
+TX-003854,2026-02-20,Hoodie,Clothing,2,49.9,1.5,Cash,Paris,99.8
+TX-003885,2026-02-11,Bluetooth Speaker,Electronics,-3,59.9,0.0,Card,Bordeaux,59.9
+TX-003889,2026-06-03,Bluetooth Speaker,Electronics,2,,0.0,Card,Lyon,119.8
+TX-003891,2026-09-04,Desk Lamp,Home,-3,34.9,0.1,Card,Lyon,62.82
+TX-003892,2026-05-06,Resistance Bands,Sports,2,,0.1,Card,Paris,41.22
+TX-003904,2026-09-23,Wireless Mouse,Electronics,1,,0.0,Cash,Bordeaux,24.9
+TX-003906,2026-06-28,Yoga Mat,Sports,1,29.9,1.5,Cash,Paris,26.91
+TX-003917,2026-03-26,Wireless Mouse,Electronics,-3,24.9,0.0,Card,Paris,24.9
+TX-003966,2026-08-04,Water Bottle,Sports,-3,14.9,0.2,Bank Transfer,Lyon,11.92
+TX-004004,2026-05-05,Jeans,Clothing,-3,44.9,0.0,Card,Paris,44.9
+TX-004061,2026-07-04,Bluetooth Speaker,Electronics,3,59.9,1.5,Card,Paris,179.7
+TX-004096,2026-03-10,Desk Lamp,Home,2,,0.0,Card,Bordeaux,69.8
+TX-004129,2026-01-27,Desk Lamp,Home,1,,0.1,Card,Paris,31.41
+TX-004141,2026-05-17,Storage Box,Home,-3,17.5,0.0,Cash,Lyon,17.5
+TX-004173,2026-01-20,Desk Lamp,Home,1,,0.0,Card,Lyon,34.9
+TX-004256,2026-04-01,T-Shirt,Clothing,1,,0.2,Card,Lyon,15.92
+TX-004272,2026-01-15,Desk Lamp,Home,-3,34.9,0.05,Card,Paris,66.31
+TX-004281,2026-05-30,Jeans,Clothing,4,,0.0,Card,Paris,179.6
+TX-004427,2026-04-29,T-Shirt,Clothing,1,,0.0,Cash,Paris,19.9
+TX-004464,2026-09-08,Coffee Mug,Home,1,,0.0,Card,Paris,9.9
+TX-004610,2026-08-11,Jeans,Clothing,1,,0.2,Card,Paris,35.92
+TX-004842,2026-04-17,Bluetooth Speaker,Electronics,1,,0.0,Bank Transfer,Paris,59.9
+TX-004850,2026-05-10,Water Bottle,Sports,1,,0.0,Cash,Paris,14.9
+TX-004964,2026-03-03,USB-C Cable,Electronics,4,12.5,1.5,Bank Transfer,Lyon,40.0

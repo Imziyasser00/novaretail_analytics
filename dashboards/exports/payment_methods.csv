@@ -1,0 +1,4 @@
+payment_method,total_transactions,total_revenue,average_transaction_value,transaction_percentage
+Card,3385,167090.92,49.36,69.05
+Cash,1005,50396.44,50.15,20.5
+Bank Transfer,512,24259.72,47.38,10.44

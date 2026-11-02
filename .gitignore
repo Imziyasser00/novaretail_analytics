@@ -1,5 +1,22 @@
+
+# Python
 .venv/
 __pycache__/
-.pytest_cache/
-.ipynb_checkpoints/
 *.pyc
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Local database
+*.duckdb
+*.duckdb.wal
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
